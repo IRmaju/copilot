@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 
 "Change in branchA" 
+=======
+echo "Change in B" >> index.txt
+git add .
+git commit -m "B update"
+>>>>>>> branchB
